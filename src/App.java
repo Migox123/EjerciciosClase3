@@ -9,6 +9,9 @@ public class App {
 
         long numeroEnorme = 10000l ;
 
+        var numeroFlotante= 3.14f; // tipo flotante
+        float numeroFlotante2 = 3.14f; // tipo flotante
+
 
 
       
