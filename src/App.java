@@ -36,10 +36,28 @@ public class App {
         var resultadoDivision = a / b;
         System.out.println("El resultado de la division es: " + resultadoDivision);
 
+        // operadores de cremento
+
+        int numeroPersonal = 30;
+        numeroPersonal++; // incremento en 1
+        ++numeroPersonal; //    incremento en 1
+        System.out.println("El numero personal es: " + numeroPersonal);
 
 
 
 
+        int c = 8;
+        int resultado = 10 + c++; // primero se suma y luego se incrementa
+        System.out.println("El resultado es: " + resultado);
+
+        System.out.println("El valor de c es: " + c);
+
+        
+        int d = 8;
+        int resultadod = 10 + ++d; // primero se incrementa y luego se suma
+        System.out.println("El resultado es: " + resultadod);
+
+        System.out.println("El valor de d es: " + d);
 
 
 
