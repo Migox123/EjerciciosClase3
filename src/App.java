@@ -12,10 +12,15 @@ public class App {
         var numeroFlotante= 3.14f; // tipo flotante
         float numeroFlotante2 = 3.14f; // tipo flotante
 
+        var numeroDouble = 3.14515145415141d; // tipo double
+        double numeroDouble2 = 3.14515145415141d; // tipo double
 
+        boolean verdadero = true;
+        boolean falso = false;
+        boolean esMayor = n1 > 18;
 
-      
-        
+        char caracter = 'a'; // tipo caracter
+
 
 
 
