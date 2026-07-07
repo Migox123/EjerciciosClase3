@@ -20,6 +20,11 @@ public class App {
         boolean esMayor = n1 > 18;
 
         char caracter = 'a'; // tipo caracter
+        char caracterEspecial = '\u0041'; // tipo caracter con valor unicode
+
+        System.out.println("este es : " + caracterEspecial);
+
+        String nombre = "Juan"; // tipo cadena de texto
 
 
 
