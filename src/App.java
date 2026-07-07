@@ -1,5 +1,8 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        byte numeroPequeño = 100;
+        short numeroMediano =  32767;
+        
+
     }
 }
