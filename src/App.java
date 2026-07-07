@@ -25,6 +25,16 @@ public class App {
         System.out.println("este es : " + caracterEspecial);
 
         String nombre = "Juan"; // tipo cadena de texto
+        System.out.println("Hola " + nombre + " tu edad es: " + n1);
+
+        String nombre2 = "Miguel Holguin";
+        System.out.println("Hola " + nombre2 + " tu edad es: " + n1);
+
+        double a = 3.14;
+        double b = 2.14;
+
+        var resultadoDivision = a / b;
+        System.out.println("El resultado de la division es: " + resultadoDivision);
 
 
 
