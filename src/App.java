@@ -59,6 +59,12 @@ public class App {
 
         System.out.println("El valor de d es: " + d);
 
+        int e = 8;
+        int resultadoe = 10 + e--; // primero se suma y luego se decrementa 
+        System.out.println("El resultado es: " + resultadoe);
+
+    
+
         
 
 
