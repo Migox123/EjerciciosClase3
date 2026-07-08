@@ -68,7 +68,11 @@ public class App {
         String[] nombres = {"Juan", "Pedro", "Maria", "Jose"};
 
         System.out.println("Los nombres son: ");
-        
+        System.out.println(nombres[0]);
+
+
+        char letra = 'a';
+        System.out.println("El valor de la letra es: " + letra);
 
     
 s
