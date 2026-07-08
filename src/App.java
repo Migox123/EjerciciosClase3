@@ -63,8 +63,15 @@ public class App {
         int resultadoe = 10 + e--; // primero se suma y luego se decrementa 
         System.out.println("El resultado es: " + resultadoe);
 
-    
+        int sumatoria = 0;
+        
+        String[] nombres = {"Juan", "Pedro", "Maria", "Jose"};
 
+        System.out.println("Los nombres son: ");
+        
+
+    
+s
         
 
 
